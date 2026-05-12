@@ -75,65 +75,11 @@ Building scalable healthcare and career-guidance solutions using AI, NLP, and mo
 
 ---
 
-# 📂 Featured Projects
-
-## 🔹 RuralAI — Rural TeleHealth System
-🔗 Repository: https://github.com/RithanyaC/TeleMedicine
-
-### 🚀 Tech Stack
-React.js • Node.js • Express.js • MongoDB • WebRTC • Socket.IO • JWT • i18n • Web Speech API
-
-### ✨ Features
-- Offline-first telemedicine platform for rural environments
-- Real-time peer-to-peer video consultation
-- Multilingual voice-enabled accessibility support
-- Secure authentication with JWT & RBAC
-- Optimized low-bandwidth performance
-
----
-
-## 🔹 Placement Feedback Collection Portal
-🔗 Repository: https://github.com/RithanyaC/Feedback_Portal
-
-### 🚀 Tech Stack
-React.js • Node.js • Express.js • PostgreSQL • JWT • RBAC
-
-### ✨ Features
-- Placement feedback and analytics management system
-- Role-based access for students, coordinators, and admins
-- Structured interview round tracking
-- Automated reporting dashboard
-
----
-
-## 🔹 AI-Powered Personalized Career Guidance System
-🔗 Repository: https://github.com/RithanyaC/CareerAI
-
-### 🚀 Tech Stack
-Python • Flask • scikit-learn • NLTK • React.js • PostgreSQL • Node.js
-
-### ✨ Features
-- NLP-based resume skill extraction
-- TF-IDF and cosine similarity recommendation engine
-- Explainable AI-based career prediction
-- Modular ML microservice architecture
-
----
-
 # 🏆 Certifications
 - Microsoft Azure AI Engineer Associate (2025)
 - MongoDB Associate Developer (2025)
 - Oracle Java SE 17 Developer (2026)
 
----
-
-# 📚 Areas of Interest
-- Machine Learning
-- Natural Language Processing (NLP)
-- Full Stack Development
-- Database Management Systems
-- Real-Time Systems
-- Scalable Backend Architecture
 
 ---
 
