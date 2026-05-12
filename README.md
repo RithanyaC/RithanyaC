@@ -143,13 +143,6 @@ Python • Flask • scikit-learn • NLTK • React.js • PostgreSQL • Node.
 
 ---
 
-# 🏅 Achievements
-- 🥇 1st Prize — Hackvotrix College Hackathon
-- 🚀 Finalist — KEC Hackathon 2024
-- 💡 Presented AI-powered solutions to industry judges
-
----
-
 # 📚 Areas of Interest
 - Machine Learning
 - Natural Language Processing (NLP)
