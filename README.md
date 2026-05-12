@@ -64,22 +64,6 @@ Building scalable healthcare and career-guidance solutions using AI, NLP, and mo
 
 ---
 
-## 🗄 Databases
-- MongoDB
-- PostgreSQL
-- MySQL
-
----
-
-## 🔐 Security & Real-Time Technologies
-- JWT Authentication
-- RBAC
-- REST APIs
-- WebRTC
-- Socket.IO
-
----
-
 ## 🧰 Tools & Platforms
 - Git
 - GitHub
