@@ -1,11 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=Rithanya C">
-
-<!-- introduction -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Rithanya !;&center=true&font=Righteous&size=35">
-  </a>
-</h1>
+<h1 align="center">Rithanya C 👋</h1>
 
 <br />
 
