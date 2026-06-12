@@ -1,4 +1,5 @@
 <h1 align="center">
+ <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtmY3MxY2ZwZHZ6ajlsd2JidHJvbGk0ZmhsM3V1MjBpemY2bGt2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kuWN0iF9BLQKk/giphy.gif" width="80"/>
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=70&lines=Rithanya+C+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
